@@ -18,11 +18,11 @@ Step 6: Open the time graph and adjust the y-axis so the bouncing ball animation
 
 
 ## Output:
-![github.logo](exp2.png)
-
 ![github.logo](exp2.1.png)
 
 ![github.logo](exp2.2.png)
+
+![github.logo](exp2.3.png)
 
 
 ## Result:
