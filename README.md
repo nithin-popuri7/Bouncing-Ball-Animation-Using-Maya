@@ -4,7 +4,7 @@ To make a bouncing ball animation using Maya.
 
 
 ## Procedure:
-# Step 1: Create a solid sphere and size it as required.
+Step 1: Create a solid sphere and size it as required.
 
 Step 2: Create a plane as a base for the ball to bounce.
 
@@ -18,5 +18,12 @@ Step 6: Open the time graph and adjust the y-axis so the bouncing ball animation
 
 
 ## Output:
+![github.logo](exp2.png)
+
+![github.logo](exp2.1.png)
+
+![github.logo](exp2.2.png)
+
 
 ## Result:
+Therefore a bouncing ball animation is created using Maya.
